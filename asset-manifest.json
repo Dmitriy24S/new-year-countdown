@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/new-year-countdown/static/css/main.892be54e.chunk.css",
+    "main.js": "/new-year-countdown/static/js/main.4a3f01b7.chunk.js",
+    "main.js.map": "/new-year-countdown/static/js/main.4a3f01b7.chunk.js.map",
+    "runtime-main.js": "/new-year-countdown/static/js/runtime-main.f3b2d2a4.js",
+    "runtime-main.js.map": "/new-year-countdown/static/js/runtime-main.f3b2d2a4.js.map",
+    "static/js/2.119bbdba.chunk.js": "/new-year-countdown/static/js/2.119bbdba.chunk.js",
+    "static/js/2.119bbdba.chunk.js.map": "/new-year-countdown/static/js/2.119bbdba.chunk.js.map",
+    "index.html": "/new-year-countdown/index.html",
+    "static/css/main.892be54e.chunk.css.map": "/new-year-countdown/static/css/main.892be54e.chunk.css.map",
+    "static/js/2.119bbdba.chunk.js.LICENSE.txt": "/new-year-countdown/static/js/2.119bbdba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3b2d2a4.js",
+    "static/js/2.119bbdba.chunk.js",
+    "static/css/main.892be54e.chunk.css",
+    "static/js/main.4a3f01b7.chunk.js"
+  ]
+}
