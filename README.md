@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# New Year Countdown 
+
+New Year Countdown App. Created with React, CSS
+
+[Live Demo](https://dmitriy24s.github.io/new-year-countdown/) 👈
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
