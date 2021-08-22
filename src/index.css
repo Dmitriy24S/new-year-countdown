@@ -34,3 +34,20 @@ body {
   align-items: center;
   margin: 15px;
 }
+
+.loader {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  border: 3px solid #f5f5f5;
+  border-top: 3px solid #222;
+
+  transform: rotata(0deg);
+  animation: loading 600ms linear infinite;
+}
+
+@keyframes loading {
+  to {
+    transform: rotate(360deg);
+  }
+}
