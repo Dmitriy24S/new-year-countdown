@@ -25,11 +25,11 @@ function App() {
   };
 
   useEffect(() => {
-    let intervalID = setInterval(() => {
+    let intervalId = setInterval(() => {
       countDown();
     }, 1000);
     return () => {
-      clearInterval(intervalID);
+      clearInterval(intervalId);
     };
   }, [seconds]);
 
@@ -60,6 +60,7 @@ function App() {
     <div className="App">
       <h1>New Year Countdown</h1>
       {isLoading ? loader : counter}
+      <div className="year">{currentYear + 1}</div>
     </div>
   );
 }
