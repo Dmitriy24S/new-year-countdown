@@ -1,5 +1,7 @@
 # New Year Countdown 
 
+![Design preview for New Year Countdown](./design-preview/design-preview.png)
+
 New Year Countdown App. Created with React, CSS
 
 [Live Demo](https://dmitriy24s.github.io/new-year-countdown/) 👈
